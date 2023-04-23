@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "블로그 방문하기"
+    url: https://cuzzzu1318.github.io/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +10,11 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: "Categories"
+    url: /categories/
+
+sidebar-category:
+  - title: "카테고리"
+    children:
+      - title: "알고리즘"
+        url: "/categories/알고리즘"
