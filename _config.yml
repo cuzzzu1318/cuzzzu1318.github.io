@@ -273,3 +273,7 @@ defaults:
       related: true
       sidebar:
         nav: "sidebar-category"
+
+
+#timezone
+  timezone: Asia/Seoul
