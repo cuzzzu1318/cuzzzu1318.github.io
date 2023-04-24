@@ -265,7 +265,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      #게시글 날짜 바꾸기
+      read_time: false
+      show_date: true
       comments: true
       share: true
       related: true
