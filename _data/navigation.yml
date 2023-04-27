@@ -18,3 +18,5 @@ sidebar-category:
     children:
       - title: "알고리즘"
         url: "/categories/알고리즘"
+      - title: "개발이슈"
+        url: "/categories/개발이슈"
