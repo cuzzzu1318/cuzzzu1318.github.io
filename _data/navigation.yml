@@ -17,6 +17,8 @@ sidebar-category:
   - title: "카테고리"
     children:
       - title: "알고리즘"
-        url: "/categories/알고리즘"
+        url: "/categories/algorithm"
       - title: "개발이슈"
-        url: "/categories/개발이슈"
+        url: "/categories/issue"
+      - title: "SSAFY"
+        url: "/categories/ssafy"

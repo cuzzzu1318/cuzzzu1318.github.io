@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "a58960d30a4f4b6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5c733f36f47aee4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74b53e6373e9e153",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02425387517a0335",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab5a436d44bfb3ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cf889586de160c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "213271fc756d51d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46f0681a19718ee3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d39a2ee221afab05",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eee31b0ac155dae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86c9fe6316df9b1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92615b0e8c9759f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a012d2d3e0bc15c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "38096d31f18a3c60",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "74b53e6373e9e153",
+  "lastOpenFiles": [
+    "_posts/algorithm/2023-04/2023-04-23-[JAVA]BOJ1713.md",
+    "_posts/algorithm/2023-07/2023-07-24-[JAVA]BOJ1149.md",
+    "_posts/algorithm/2024-03/2024-03-10-[JAVA]BOJ17298.md",
+    "_posts/algorithm/2024-03/2024-03-10-[JAVA]BOJ4195.md",
+    "_posts/issue/2023-04-24-BOJ 502Error.md"
+  ]
+}
