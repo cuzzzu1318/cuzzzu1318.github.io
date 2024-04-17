@@ -105,11 +105,11 @@ public class MemberCustomRepositoryImpl implements MemberCustomRepository {
 
 # 참고
 
-https://ittrue.tistory.com/292
+[https://ittrue.tistory.com/292](https://ittrue.tistory.com/292)
 
 [https://medium.com/mo-zza/spring-data-jpa-querydsl-적용-22a0364cd579](https://medium.com/mo-zza/spring-data-jpa-querydsl-%EC%A0%81%EC%9A%A9-22a0364cd579)
 
 [https://velog.io/@jmjmjmz732002/SpringBoot-QueryDSL-JPA-1-사용-이유-생각해보기](https://velog.io/@jmjmjmz732002/SpringBoot-QueryDSL-JPA-1-%EC%82%AC%EC%9A%A9-%EC%9D%B4%EC%9C%A0-%EC%83%9D%EA%B0%81%ED%95%B4%EB%B3%B4%EA%B8%B0)
 
-https://lordofkangs.tistory.com/456
+[QueryDSL이란?](https://lordofkangs.tistory.com/456)
 
